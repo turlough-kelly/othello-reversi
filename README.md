@@ -1,10 +1,4 @@
 # othello-reversi
-A project completed for module COMP10050 in University College Dublin (UCD). It replicates the game "Othello" (also known as "Reversi"), and allows for 2 players to play at the same time.
-
-╔═╦══╦╗╔╦═╦╗╔╗╔═╗
-║║╠╗╔╣╚╝║╦╣║║║║║║
-║║║║║║╔╗║╩╣╚╣╚╣║║
-╚═╝╚╝╚╝╚╩═╩═╩═╩═╝
 A project by Turlough Kelly (Student Number 20343033) for COMP10050, Software Engineering 1.
 Module Coordinator: John Dunnion
 Assistant Grader: Lorraine McHugh
