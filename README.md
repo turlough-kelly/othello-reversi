@@ -1,7 +1,5 @@
 # othello-reversi
 A project by Turlough Kelly (Student Number 20343033) for COMP10050, Software Engineering 1.
-Module Coordinator: John Dunnion
-Assistant Grader: Lorraine McHugh
 
 
 
